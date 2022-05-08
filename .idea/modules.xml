@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Section-5_project/Section-5_project.iml" filepath="$PROJECT_DIR$/Section-5_project/Section-5_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section4_projects/Section4_projects.iml" filepath="$PROJECT_DIR$/Section4_projects/Section4_projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section6_Projects/Section6_Projects.iml" filepath="$PROJECT_DIR$/Section6_Projects/Section6_Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section7_project/Section7_project.iml" filepath="$PROJECT_DIR$/Section7_project/Section7_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section8_Projects/Section8_Projects.iml" filepath="$PROJECT_DIR$/Section8_Projects/Section8_Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_projects.iml" filepath="$PROJECT_DIR$/java_projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section-2_projects/section-2_projects.iml" filepath="$PROJECT_DIR$/section-2_projects/section-2_projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section-3_projects/section-3_projects.iml" filepath="$PROJECT_DIR$/section-3_projects/section-3_projects.iml" />
+    </modules>
+  </component>
+</project>
